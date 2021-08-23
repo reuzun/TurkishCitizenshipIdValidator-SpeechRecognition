@@ -5,3 +5,6 @@
 - To validate : [TurkishCitizenshipId-Facilities](https://github.com/reuzun/TurkishCitizenshipId-Facilities)
 - To speak a voice : [freetts](https://freetts.sourceforge.io/)
 - To recognize voice(Python) : [speech-recognition](https://github.com/Uberi/speech_recognition)
+
+## Licence
+Licensed under [GPL-3.0 License](LICENSE).
